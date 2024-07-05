@@ -23,6 +23,8 @@
   </a>
   <a > <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   </a>
+ <a > <img src="https://img.icons8.com/?size=100&id=13654&format=png&color=000000" alt="scikit_learn" width="40" height="40"/>
+  </a>
   <a><img src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" width="40" height="40"/>
   </a> <a><img src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" width="40" height="40"/>
   </a><a><img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" width="40" height="40"/>
