@@ -1,10 +1,7 @@
-<h1 align="center">Hi 👋, I'm Anjali Joshi</h1>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="400">
-
-- 👀 I’m interested in **Data Analysis ,Data Science** 
+<h1 align="center">Hi 👋, I'm Anjali Joshi 👀 I’m interested in **Data Analysis ,Data Science** </h1>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/af212da4-8588-4d7c-8400-16e56f2746a0" width="600">
 
 - 📫 How to reach me **anjalijoshi.dj@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anjalijoshi2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anjalijoshi2001" height="30" width="40" /></a>
