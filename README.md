@@ -19,7 +19,6 @@
   </a>
   <a><img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000"   width="40" height="40">
   </a>
-
   <a><img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" width="40" height="40">
   </a>
   <a > <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
